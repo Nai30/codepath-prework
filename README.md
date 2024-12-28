@@ -47,7 +47,9 @@ The app that I want to create would be meant to make it easier to find clothing 
 
 Describe any challenges encountered while building the app.
 -Finding where everything was situated was a bit of a challenge because Xcode is a new IDE
+
 -Debugging was tricky since the error messages I would get weren't pointing directly to the root of the issue that I had.
+
 -Because I took breaks in between completing the work I would forget where certain things like the assistant were . It would have been better to not take breaks and just do the work in one go.
 
 ## License
