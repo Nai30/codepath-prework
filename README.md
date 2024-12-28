@@ -27,15 +27,18 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 
 ## Notes
- Snapchat
+Snapchat
 -Being able to take pictures
 -sending pictures to friends and family
+
 Instagram
 -Following people you know
 -getting outfit inspiration or restaurant recommendations
+
 Capcut
 -editing videos
 -different video templates available
+
 Tik tok
 -Being able to find a community
 -posting videos for others to enjoy
